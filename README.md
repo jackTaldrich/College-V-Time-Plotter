@@ -1,5 +1,5 @@
 # College V Time Plotter
-A simple Python program that plots the amount of emails sent to an address by colleges and the date/time that they were sent.
+A simple Python program that plots the acceptance rate of colleges and the date/time that the email was sent.
 
 ---
 
