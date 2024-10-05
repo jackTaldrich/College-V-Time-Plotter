@@ -5,11 +5,11 @@ A simple Python program that plots the amount of emails sent to an address by co
 
 ### Graphs of my inbox
 
-<img src="Aug2023-Now.png">
 August 1st, 2023 - October 4th, 2024
+<img src="Aug2023-Now.png">
 
-<img src="May2024-Now.png">
 May 1st, 2024 - October 4th, 2024
+<img src="May2024-Now.png">
 
 ---
 
