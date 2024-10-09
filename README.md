@@ -13,6 +13,11 @@ May 1st, 2024 - October 4th, 2024
 
 ---
 
+### Graph of avg. acceptance rate per day
+
+May 1st, 2024 - October 4th, 2024
+<img src="avc-acr-v-time--2024-05-01.png">
+
 ## Dateset from kaijchang's USNews College Scraper: https://github.com/kaijchang/USNews-College-Scraper
 
 ---
