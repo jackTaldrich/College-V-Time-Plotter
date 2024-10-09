@@ -22,14 +22,20 @@ May 1st, 2024 - October 4th, 2024
 
 ---
 
-To setup:
+## To setup:
+
+<ol>
+<li>Make sure IMAP is enabled on your gmail account</li>
+<li>Allow 3rd party apps in your Google security settings</li>
+</ol>
+
 `pip3 install -r requirements.txt`
 
-To run:
+## To run:
 ```
 python3 Builder.py
 python3 Grapher.py
 ```
 
-Builder makes the dataset from your inbox, and Grapher plots all of the data points.
+Builder makes the dataset from your inbox, and Grapher plots all the data points.
 
