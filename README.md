@@ -1,4 +1,5 @@
 # College V Time Plotter
+
 A simple Python program that plots the acceptance rate of colleges and the date/time that the email was sent.
 
 ---
@@ -27,15 +28,16 @@ May 1st, 2024 - October 4th, 2024
 <ol>
 <li>Make sure IMAP is enabled on your gmail account</li>
 <li>Allow 3rd party apps in your Google security settings</li>
+<a>https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4MoKUn25AFE207IQl46w0RjwlAzLq8Umi7w5-NoCibFJ1VWzVQpqLF_-gnhzc9_NfeLAxuoDHRkwHC9Ku7c8jAZoYS2TFvd48up_3uPZ3ydHUt4rOQ</a>
 </ol>
 
 `pip3 install -r requirements.txt`
 
 ## To run:
+
 ```
 python3 Builder.py
 python3 Grapher.py
 ```
 
 Builder makes the dataset from your inbox, and Grapher plots all the data points.
-
